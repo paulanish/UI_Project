@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ff3da58.css",
+    "main.js": "/static/js/main.ae4a1c23.js",
+    "static/js/592.06b041a5.chunk.js": "/static/js/592.06b041a5.chunk.js",
+    "static/media/gym-fitness.jpg": "/static/media/gym-fitness.ca2f7baa5fe1cba2d3ee.jpg",
+    "static/media/indoor-cycling.jpg": "/static/media/indoor-cycling.9baad74a8feb4397984f.jpg",
+    "static/media/zumba.jpg": "/static/media/zumba.0427ed935fc24af0eb55.jpg",
+    "static/media/cardio-kickboxing.jpg": "/static/media/cardio-kickboxing.e5cafc5122ab9c3f18c0.jpg",
+    "static/media/power-yoga.jpg": "/static/media/power-yoga.9b24246ae284445c5ff9.jpg",
+    "static/media/circuit-training.jpg": "/static/media/circuit-training.d8009967f9fd69d99328.jpg",
+    "index.html": "/index.html",
+    "main.7ff3da58.css.map": "/static/css/main.7ff3da58.css.map",
+    "main.ae4a1c23.js.map": "/static/js/main.ae4a1c23.js.map",
+    "592.06b041a5.chunk.js.map": "/static/js/592.06b041a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff3da58.css",
+    "static/js/main.ae4a1c23.js"
+  ]
+}
